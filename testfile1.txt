@@ -1,2 +1,2 @@
 This is a second file... to test sourcetree
-
+I'm jamaes i worte this for 2nd file is not whowing on the staged files window...
